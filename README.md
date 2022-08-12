@@ -1,8 +1,8 @@
 ## Olá, Pamela Aqui!
 
 <div>
-  <img  height="120em" src="https://github-readme-stats.vercel.app/api?username=Konansz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konansz&layout=compact&langs_count=16&theme=aura_dark"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=Konansz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konansz&layout=compact&langs_count=16&theme=aura_dark"/>
 </div>
 <br>
 
