@@ -1,4 +1,4 @@
-## Olá, Pamela Aqui!
+## Oii sou Pamela, apenas uma estudante de programação!
 
 <div>
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=PamelaMirandaa&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
